@@ -1,0 +1,3 @@
+[06-May-2022 04:52:55 America/New_York] PHP Notice:  Undefined variable: posts in /home/goodefym/public_html/automation/order_post.php on line 10
+[07-Jun-2022 03:47:23 America/New_York] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/goodefym/public_html/automation/or.php on line 6
+[07-Jun-2022 12:14:55 America/New_York] PHP Notice:  Undefined index: order_id in /home/goodefym/public_html/automation/or.php on line 8

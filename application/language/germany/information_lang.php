@@ -1,0 +1,102 @@
+<?php
+  // Germany checkout page translation labels
+  $lang['welcome'] = 'KOSTENLOSER VERSAND FÜR ALLE HEUTE AUFGEGEBENEN BESTELLUNGEN';
+  $lang['step_1'] = 'Adresse';
+  $lang['step_2'] = 'Zahlung';
+  $lang['step_3'] = 'Es ist vollbracht !';
+  $lang['step_1_title'] = 'Rechnungsadresse';
+  $lang['step_2_title'] = 'Zahlungsweise';
+  $lang['step_3_title'] = 'Bestellzusammenfassung';
+  $lang['first_name'] = 'Vorname';
+  $lang['last_name'] = 'Name';
+  $lang['address'] = 'Adresse ';
+  $lang['mobile_no'] = 'Handy-Nr.';
+  $lang['country'] = 'Land';
+  $lang['city'] = 'Stadt';
+  $lang['postal_code'] = 'Postleitzahl';
+  $lang['email'] = 'E-mail';
+  $lang['other_address'] = 'An eine andere Adresse senden';
+  $lang['card_no'] = 'Kartennummer';
+  $lang['cvv'] = 'CVV';
+  $lang['expiry_month'] = 'Karte Ablaufmonat';
+  $lang['expiry_year'] = 'Karte Ablaufjahr';
+  $lang['month'] = 'Monat';
+  $lang['year'] = 'Jahr';
+  $lang['amount'] = 'Menge';
+  $lang['description'] = 'Beschreibung';
+  $lang['price_per_unit'] = 'Preis pro Einheit';
+  $lang['total'] = 'Insgesamt';
+  $lang['subtotal'] = 'Zwischensumme';
+  $lang['vat'] = 'MwSt';
+  $lang['trial_period'] = 'Kostenloser 14-tägiger Testzeitraum';
+  $lang['delivery_days'] = 'Standardlieferung 2-7 Werktage';
+  $lang['grand_total'] = 'Gesamtsumme TTL';
+  $lang['accept_order'] = 'Auftrag annehmen';
+  $lang['terms'] = "Ich habe die Allgemeinen Geschäftsbedingungen und Abonnementbedingungen von Goodeess.com gelesen und akzeptiere sie mit einem monatlichen Abonnement von 34.95 €, das nach der Testphase angewendet wird";
+  $lang['continue'] = 'WEITERGEHEN';
+  $lang['link_1'] = 'Rückerstattungsbedingungen';
+  $lang['link_2'] = 'Datenschutzrichtlinie';
+  $lang['link_3'] = 'Allgemeine Geschäftsbedingungen';
+  $lang['link_4'] = 'Rücksende- und Rückerstattungsbedingungen';
+  $lang['link_5'] = 'Impressum';
+  $lang['link_6'] = 'Richtlinien zu Cookies';
+  $lang['link_7'] = 'Versandpolitik';
+  $lang['link_8'] = 'Haftungsausschlusserklärung';
+  $lang['link_9'] = 'Abonnement-Bedingungen';
+
+  // Germany checkout page translation labels
+  $lang['heading_1'] = 'VIELEN DANK FÜR IHRE BESTELLUNG!';
+  $lang['heading_1_p_1'] = 'Willkommen bei Goodeess! Vielen Dank für Ihren Einkauf und dafür, dass Sie Mitglied in unserem Goodeess Plus+ Rabattclub geworden sind.';
+  $lang['heading_1_p_2'] = 'Wir werden unser Bestes tun, um Ihre Produkte so schnell wie möglich und mit der größtmöglichen Sorgfalt zu liefern. Ihr kostenloser siebentägiger Testzeitraum beginnt jetzt, herzlichen Glückwunsch.';
+  $lang['heading_1_p_3'] = 'Besuchen Sie goodeess.com, loggen Sie sich ein und profitieren Sie von einem Rabatt von 50-70% auf unseren gesamten Produktkatalog.';
+  $lang['heading_1_p_4'] = 'In Kürze werden wir Ihnen eine E-Mail mit den Rechnungs- und Versandinformationen schicken. Nochmals vielen Dank für Ihren Einkauf.';
+  $lang['order_status'] = 'Status der Bestellung anzeigen';
+  $lang['heading_2'] = 'BESTELLINFORMATIONEN';
+  $lang['heading_2_p_1'] = 'In Kürze werden wir Ihnen eine E-Mail mit den Rechnungs- und Versandinformationen schicken. Nochmals vielen Dank für Ihren Einkauf.';
+  $lang['product'] = 'Produkt';
+  $lang['price'] = 'Preis';
+  $lang['SYNTHESIS'] = 'ZUSAMMENFASSUNG';
+  $lang['checkout'] = 'Warenkorb ansehen';
+  $lang['transport'] = 'Versand';
+  $lang['free'] = 'KOSTENLOS';
+  $lang['grand'] = 'Gesamtsumme';
+$lang['order_now'] = 'JETZT BESTELLEN';
+$lang['write_review'] = 'Eine Bewertung schreiben';
+
+$lang['tab_1'] = 'BESCHREIBUNG';
+$lang['tab_2'] = 'Merkmale';
+$lang['tab_3'] = 'Versand und Rückgabe';
+$lang['tab_4'] = 'Meinung';
+
+$lang['apply'] = 'Anwenden';
+$lang['shipping_policy'] = "Versandpolitik";
+$lang['shipping_days'] = "2-7 Werktage Versand";
+$lang['availible_stock'] = 'Lagerbestand';
+$lang['people_looking'] = 'Personen suchten dieses Produkt';
+$lang['sold_product'] = '5 verkauft im Laufe der 26 letzten Stunden';
+
+$lang['return_fund'] = 'Rücksende- und Rückerstattungsbedingungen';
+$lang['term_cond'] = 'allgemeine Geschäftsbedingungen';
+$lang['cookie_policy'] = 'Richtlinien zu Cookies';
+$lang['privacy_policy'] = 'Datenschutzrichtlinie';
+$lang['dis_policy'] = 'Haftungsausschlusserklärung';
+$lang['copy_right']='Goodeess. Copyright © 2022 All rights reserved.';
+$lang['rester_connect'] = 'RESTER CONNECTÉ';
+
+$lang['secure_payment'] = 'SICHERE BEZAHLUNG';
+$lang['secure_payment_d'] = 'Mit den meisten Zahlungsmethoden der Welt können Sie bezahlen.';
+$lang['trust'] = 'VERTRAUEN';
+$lang['trust_d'] = 'Die Schutzbestimmungen umfassen Ihren Einkauf und Ihre persönlichen Daten.';
+$lang['delivery'] = 'LIEFERUNG IN METROPOLITANEM FRANKREICH';
+$lang['delivery_d'] = 'KOSTENLOSE und schnelle Lieferung in ganz Deutschland.';
+$lang['after_sale'] = 'KUNDENDIENST';
+$lang['after_sale_d'] = 'Wenden Sie sich bei Fragen per E-Mail an unseren Kundenservice.';
+$lang['save_now'] = 'Jetzt Sparen';
+$lang['cost'] = 'DAVOR';
+$lang['discount_place_holder'] = 'Hier Gutscheincode eingeben';
+$lang['qty'] = 'Menge';
+$lang['shipping_handling'] = "Versand- und Bearbeitungsgebühren";
+$lang['free_welcome'] = "GOODEESS HEISST SIE WILLKOMMEN – WERDEN SIE UNSER CLUB BEI UND ERHALTEN SIE BIS ZU 70 % RABATT AUF ALLE PRODUKTE";
+$lang['notification'] = 'BENACHRICHTIGT WERDEN';
+$lang['notification_place_holder']='Lassen Sie sich benachrichtigen, wenn wir neue Lagerbestände haben!';
+?>
